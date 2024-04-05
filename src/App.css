@@ -1,0 +1,13 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.posts {
+  margin: 0 40%;
+}

@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": "1",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+    },
+    {
+      "userId": 1,
+      "id": "2",
+      "title": "qui est esse"
+    },
+    {
+      "id": "4",
+      "title": "Enum datatype",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "id": "5",
+      "title": "nesciunt quas odio"
+    },
+    {
+      "id": "3",
+      "title": "Dipesh J Mali",
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
